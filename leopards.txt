@@ -4,3 +4,4 @@ manager : HyeonSep
 
 members :
 - JonHo
+- Olivia
