@@ -1,0 +1,6 @@
+team : Leopards
+
+manager : HyeonSep
+
+members :
+- JonHo
